@@ -26,4 +26,4 @@ I'm currently working on two fields:
 3. A Design of Network Reconfigurable Universal CNN Accelerator Based on FPGA, JPDC, 2024 (CCF-B, 5-th author, under review)
 
 ## Patents
-1. 
+1. 基于Quegel分布式图计算系统的k-truss分解方法 (周旭;翁同峰;张吉;余婷;**潘东**;肖国庆;杨志邦;陈岑,李肯立)
