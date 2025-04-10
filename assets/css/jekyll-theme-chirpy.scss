@@ -1,0 +1,112 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+#sidebar {
+  background-image: url(https://i.postimg.cc/QCmBq55w/nachoneko1.jpg); /* <- change background image */
+  background-size: cover; /* <- customize the image size */
+  background-repeat: no-repeat; /* <- no-repeat */
+  background-position: top; /* <- image position */
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #333;
+  transition: transform 0.3s ease, width 0.3s ease, height 0.3s ease; /* 添加过渡效果 */
+  overflow: hidden; /* 防止内容溢出 */
+}
+
+
+/* 当鼠标移出时，侧边栏缩小到显示头像 */
+#sidebar.hidden {
+  background-image: url('https://i.postimg.cc/ncxNWW9q/1257400.png');
+  background-size: cover; /* <- customize the image size */
+  background-repeat: no-repeat; /* <- no-repeat */
+  background-position: top; /* <- image position */
+  border-radius: 50%; /* 使头像变为圆形 */
+  width: 150px; /* 缩小宽度，显示头像区域 */
+  height: 150px; /* 缩小高度 */
+  transform: translate(0, 0); /* 保持在左上角 */
+}
+
+/* 其他内容（如文本）可以在鼠标移入时显示 */
+#sidebar .content {
+  display: block;
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+/* 当鼠标移出时，内容隐藏 */
+#sidebar.hidden .content {
+  opacity: 0;
+  pointer-events: none; /* 禁用内容的点击事件 */
+}
+
+#sidebar .profile-wrapper,
+#sidebar nav,
+#sidebar .sidebar-bottom {
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+#sidebar.hidden .profile-wrapper,
+#sidebar.hidden nav,
+#sidebar.hidden .sidebar-bottom {
+  opacity: 0;
+  pointer-events: none; /* 禁止交互 */
+}
+
+/* 设置全站背景图片 */
+body {
+  background-image: url('https://i.postimg.cc/0Q2ryjhC/nachoneko3.png');  /* 设置背景图片路径 */
+  background-size: cover;  /* 背景图片大小适应 */
+  background-position: center;  /* 背景图片居中 */
+  background-attachment: fixed;  /* 背景固定不随滚动 */
+}
+
+#topbar-wrapper {
+  background-color: rgba(255, 255, 255, 0);  /* 透明背景 */
+}
+
+/* 修改 Top Bar 内部字体颜色 */
+#topbar-wrapper #breadcrumb {
+  color: #ffffff !important;
+}
+
+#search {
+  background-color: transparent; /* 透明背景 */
+  color:#ffffff;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+/* 默认搜索框内的文字颜色 */
+#search input {
+  background: transparent;
+  color: white; /* 默认白色 */
+  border: none;
+  outline: none;
+  transition: color 0.3s ease-in-out;
+}
+#search input::placeholder{
+  color:white !important;
+  transition: color 0.3s ease-in-out;
+}
+/* 当输入框或 #search 内部任何元素获取焦点时 */
+#search:focus-within {
+  background-color: white !important; /* 强制背景变白 */
+  color: black !important; /* 文字变黑 */
+}
+#search:focus-within input {
+  color: black !important; /* 输入框文字变黑 */
+}
+#search:focus-within input::placeholder{
+  color:black !important;
+}
+
+article{
+  background-color: rgba(255, 255, 255, 60%) !important;
+}
