@@ -21,9 +21,10 @@ I'm currently working on two fields:
    - FPGA-based maximum k-biplex heuristic search algorithm.
 
 ## Publication
-1. Accelerating maximum biplex search over large bipartite graphs, VLDB Journal, 2024 (CCF-A, first author, published).
-2. Efficient Structural Clustering over Hypergraphs, ICDE, 2025 (CCF-A, first author, accepted).
-3. A Design of Network Reconfigurable Universal CNN Accelerator Based on FPGA, JPDC, 2024 (CCF-B, 5-th author, under review)
+> \*: corresponding author
+1. **Dong Pan**, Xu Zhou\*, Wensheng Luo\*, Zhibang Yang, Qing Liu, Yunjun Gao, Kenli Li, Accelerating maximum biplex search over large bipartite graphs, The VLDB Journal , 2024, \[ [code](https://github.com/pardon-hnu/Maximum-Biplex-Search),[pdf](https://link.springer.com/article/10.1007/s00778-024-00882-9) \].
+2. **Dong Pan**, Xu Zhou\*, Lingwei Li, Quanqing Xu\*, Chuanhui Yang, Chenhao Ma, KenLi Li, Efficient Structural Clustering over Hypergraphs, IEEE International Conference on Data Engineering \(ICDE\), 2025 \[ [code](https://github.com/pardon-hnu/Hyper-SCAN),[pdf](https://github.com/pardon-hnu/Hyper-SCAN/blob/main/Technical_Report.pdf) \].
+3. Wenhua Ye, Huan Li, Zemin Tang\*, Huilong Pi, **Dong Pan**, Guanliang Li, Kenli Li, A Design of Network Reconfigurable Universal CNN Accelerator Based on FPGA, Journal of Parallel and Distributed Computing \(JPDC\), 2024
 
 ## Patents
 1. 基于Quegel分布式图计算系统的k-truss分解方法 (周旭;翁同峰;张吉;余婷;**潘东**;肖国庆;杨志邦;陈岑,李肯立)
