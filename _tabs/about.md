@@ -29,11 +29,11 @@ I'm currently working on two fields:
 > \*: corresponding author
 1. **Dong Pan**, Xu Zhou\*, Lingwei Li, Quanqing Xu\*, Chuanhui Yang, Chenhao Ma, KenLi Li, Efficient Structural Clustering over Hypergraphs, IEEE International Conference on Data Engineering \(ICDE\), 2025 \[ [code](https://github.com/pardon-hnu/Hyper-SCAN), [pdf](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d480/26FZBLZdp1m) \].
 2. **Dong Pan**, Xu Zhou, Wensheng Luo\*, Zhibang Yang, Qing Liu, Yunjun Gao, Kenli Li, Accelerating maximum biplex search over large bipartite graphs, The VLDB Journal , 2024, \[ [code](https://github.com/pardon-hnu/Maximum-Biplex-Search), [pdf](https://link.springer.com/article/10.1007/s00778-024-00882-9) \].
-3. **Dong Pan**, Xu Zhou\*, Zeyu Lu, Quanqing Xu, Daokun Hu, Chuanhui Yang, Tongfeng Weng, and Kenli Li. Index-aware attention-based cost estimation for complex filters (Submission in progress).
-4. Wenhua Ye, Huan Li, Zemin Tang\*, Huilong Pi, **Dong Pan**, Guanliang Li, Kenli Li, A Design of Network Reconfigurable Universal CNN Accelerator Based on FPGA (Submission in progress).
+3. **Dong Pan**, Xu Zhou\*, Zeyu Lu, Quanqing Xu, Daokun Hu, Chuanhui Yang, Tongfeng Weng, and Kenli Li. Index-aware attention-based cost estimation for complex filters (In progress).
+4. Wenhua Ye, Huan Li, Xu Zhou, **Dong Pan**, Kenli Li, MDS-ViT: A Multi-Data Stream FPGA-Based Vision Transformer Accelerator (Submitted).
 
 ## Patents
-1. 基于Quegel分布式图计算系统的k-truss分解方法 (周旭;翁同峰;张吉;余婷;**潘东**;肖国庆;杨志邦;陈岑,李肯立)
-2. 一种基于多视图属性缺失图的聚类方法和系统 (韩新宇;石慜;周旭;李梦瑶;**潘东**)
-3. 图聚类方法及设备(	**潘东**;徐泉清;陆泽瑜;杨传辉;陈柳逸;胡道坤;周旭)
-4. 一种高效的超图结构性聚类方法和系统(**周旭**;李凌威;杨志邦;童钊;潘东;梅晶;李肯立)
+1. Xu Zhou, Tongfeng Weng, Ji Zhang, Ting Yu, **Dong Pan**, Guoqing Xiao, Zhibang Yang, Cen Chen, Kenli Li, A k-truss decomposition method based on Quegel distributed graph computing system, CN202110814231.6.
+2. Xinyu Han, Min Shi, Xu Zhou, Mengyao Li, **Dong Pan**, A clustering method and system based on multi-view attribute missing graphs,  CN202510168879.9.
+3. Xu Zhou, Lingwei Li, Zhibang Yang, Zhao Tong, **Dong Pan**, Jing Mei, Kenli Li, An Efficient Hypergraph Structural Clustering Method and System, CN202510186112.9.
+4. **Dong Pan**, Quanqing Xu, Zeyu Lu, Chuanhui Yang, Liuyi Chen, Daokun Hu, Xu Zhou, Graph clustering methods and equipment,  CN202510626225.6.
