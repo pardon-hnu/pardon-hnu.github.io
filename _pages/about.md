@@ -19,9 +19,11 @@ I have also collaborated with
 on research in AI for databases (AI4DB). 
 
 My research focuses on:
-1. cohesive subgraph mining, including maximum $k$-biplex search and structural clustering over graphs and hypergraphs;
+1. cohesive subgraph mining, including maximum k-biplex search and structural clustering over graphs and hypergraphs;
 2. accelerating graph processing with FPGA and HLS, including FPGA-based maximum $k$-biplex search;
 3. AI4DB, including reinforcement learning-based index selection and learned query cost estimation.
+   
+Recently, I have also developed a growing interest in the intersection of graph techniques and large language models (LLMs), such as leveraging graphs for retrieval-augmented generation (RAG), agent memory organization, and AI-driven graph analytics. This is likely to be one of my future research directions.
 
 **I am actively seeking a postdoctoral position.**
 
