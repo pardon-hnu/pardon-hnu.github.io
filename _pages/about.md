@@ -25,10 +25,12 @@ My research focuses on:
    
 Recently, I have also developed a growing interest in the intersection of graph techniques and large language models (LLMs), such as leveraging graphs for retrieval-augmented generation (RAG), agent memory organization, and AI-driven graph analytics. This is likely to be one of my future research directions.
 
-**I am actively seeking a postdoctoral position.**
+**I will be a postdoc at Chinese University of Hong Kong (Shen Zhen) and supervised by [Prof. Yixiang Fang](https://fangyixiang.github.io)!!!**
 
 ## News
 
+- I'm invited to serve as a reviewer for KDD 2027 (AI4Science Track)!
+- Our Paper *"MDS-ViT: A Multi-Data Stream FPGA-Based Vision Transformer Accelerator"* has been accepted by Journal of Systems Architecture (JSA)!
 - I'm invited to serve as a reviewer for KDD 2026 (AI4Science Track)!
 - I give a talk titled *"Efficient Structural Clustering over Hypergraphs"* at the Data Science Parallel Forum of the First Doctoral/Postdoctoral Boyue Academic Forum of CUHK-Shenzhen and the 2025 Shenzhen Postdoctoral Academic Annual Conference!
 - Our paper *"Efficient Structural Clustering over Hypergraphs"* has been accepted by ICDE 2025!

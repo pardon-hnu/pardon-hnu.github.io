@@ -1,12 +1,12 @@
 ---
 title: "MDS-ViT: A Multi-Data Stream FPGA-Based Vision Transformer Accelerator"
 collection: publications
-category: preprints
-permalink: /publication/preprint-3
+category: papers
+permalink: /publication/paper-3
 authors: 'Wenhua Ye, Huan Li, Xu Zhou, **Dong Pan**, Kenli Li.'
-date: 2025-06-30
-venue: 'submitted to Journal of Systems Architecture (JSA)'
-# paperurl: 'https://ieeexplore.ieee.org/document/11113079'
+date: 2025-07-10
+venue: 'Journal of Systems Architecture (JSA)'
+paperurl: 'https://doi.org/10.1016/j.sysarc.2026.103898'
 # codeurl: 'https://github.com/pardon-hnu/Hyper-SCAN'
 ---
 
