@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Services
+- Invited Reviewer, KDD 2027 AI4Sciences Track Augest
 - Invited Reviewer, KDD 2026 AI4Sciences Track February
 
 ## Reports
