@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Dong Pan, a Ph.D. student at Hunan University. 
-I am supervised by [Prof. Xu Zhou](https://csee.hnu.edu.cn/people/zhouxu) 
-and [Prof. Kenli Li](https://csee.hnu.edu.cn/people/likenli). 
+My name is Dong Pan, a postdoc at Chinese University of Hong Kong (Shen Zhen). 
+I am supervised by [Prof. Yixiang Fang](https://fangyixiang.github.io).
+I received my Ph.D. from Hunan University under the supervision of Prof. Xu Zhou and Prof. Kenli Li. 
 In addition, I have benefited from valuable guidance and support from 
 [Wensheng Luo](https://csee.hnu.edu.cn/people/luowensheng), 
 [Prof. Chenhao Ma](https://chenhao-ma.github.io), and 
@@ -20,15 +20,13 @@ on research in AI for databases (AI4DB).
 
 My research focuses on:
 1. cohesive subgraph mining, including maximum k-biplex search and structural clustering over graphs and hypergraphs;
-2. accelerating graph processing with FPGA and HLS, including FPGA-based maximum $k$-biplex search;
-3. AI4DB, including reinforcement learning-based index selection and learned query cost estimation.
-   
-Recently, I have also developed a growing interest in the intersection of graph techniques and large language models (LLMs), such as leveraging graphs for retrieval-augmented generation (RAG), agent memory organization, and AI-driven graph analytics. This is likely to be one of my future research directions.
-
-**I will be a postdoc at Chinese University of Hong Kong (Shen Zhen) and supervised by [Prof. Yixiang Fang](https://fangyixiang.github.io)!!!**
+2. data management for llm, including agent memory, retrieval-augmented generation (RAG), skills.
+3. accelerating graph processing with FPGA and HLS, including FPGA-based maximum $k$-biplex search;
+4. AI4DB, including reinforcement learning-based index selection and learned query cost estimation.
 
 ## News
 
+- I'm invited to serve on Program Committee of WSDM 2027!
 - I'm invited to serve as a reviewer for KDD 2027 (AI4Science Track)!
 - Our Paper *"MDS-ViT: A Multi-Data Stream FPGA-Based Vision Transformer Accelerator"* has been accepted by Journal of Systems Architecture (JSA)!
 - I'm invited to serve as a reviewer for KDD 2026 (AI4Science Track)!
